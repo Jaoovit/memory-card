@@ -1,9 +1,7 @@
-import ScoreBoard from "./ScoreBoard"
-
 const Header = () => {
     return (
         <>
-            <ScoreBoard />
+            <h1>Memory Card</h1>
         </>
     )
 }
